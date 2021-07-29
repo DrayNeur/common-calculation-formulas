@@ -22,7 +22,7 @@ Because:
 x2-x1 IF 15-20
 then = -5
 
-And we don't negative values for distance
+And we don't want negative values for distance
 Also:
 
 x2-x1 + y2-y1
